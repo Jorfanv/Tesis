@@ -110,7 +110,7 @@ codigo_tesis_git/
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/codigo_tesis_git.git
+git clone https://github.com/Jorfanv/Tesis.git
 cd codigo_tesis_git
 ```
 
